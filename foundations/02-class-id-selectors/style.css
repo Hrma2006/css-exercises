@@ -1,0 +1,18 @@
+*{
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+.odd{
+    background-color: hsla(0, 100%, 50%, 0.466);
+}
+#even{
+    color: blue;
+    font-size: 36px;
+}
+#four{
+    background-color: hsla(130, 100%, 46%, 0.674);
+    font-size: 24px;
+    font-weight: bold;
+}
+.cool{
+    font-size: 24px;
+}
